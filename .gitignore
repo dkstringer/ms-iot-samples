@@ -202,3 +202,6 @@ IotTemplates/WindowsIotCoreTemplates/VSIX/ProjectTemplates/VisualBasic/Windows/W
 IotTemplates/WindowsIotCoreTemplates/VSIX/ProjectTemplates/VC/Windows/Windows IoT Core/WiringApplication.zip
 IotTemplates/WindowsIotCoreTemplates/VSIX/ProjectTemplates/CSharp/Windows/Windows IoT Core/BackgroundServiceCsharp.zip
 IoTCoreDefaultApp/IoTCoreDefaultApp.VC.opendb
+
+# VS2015
+.vs/
